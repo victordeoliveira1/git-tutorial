@@ -1,4 +1,4 @@
-# full-stack
+# git-tutorial
 
 <img src="https://coodesh.com/blog/wp-content/uploads/2022/07/como-dominar-o-git-scaled.jpg">
 
